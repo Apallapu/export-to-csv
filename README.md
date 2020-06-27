@@ -8,7 +8,9 @@ C:\kubernates-example\export-to-csv>mvn clean install
 
 C:\kubernates-example\export-to-csv>mvn spring-boot:run
 
-out put url
+out put url]
+
+
 http://localhost:8080/cities
 
 http://localhost:8080/cities/1
